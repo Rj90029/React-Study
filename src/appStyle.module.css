@@ -1,0 +1,4 @@
+/* CSS modules style willnot be applied to child components automatically */
+.success{
+    color: green;
+}

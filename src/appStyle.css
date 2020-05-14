@@ -1,0 +1,6 @@
+/* Regular style sheet style will be applied to child components automatically. 
+This may some time leads to CSS conflicts. So beaware to not use accidently reluglar style sheet classes in child components */
+.error{
+    color: red;
+}
+
